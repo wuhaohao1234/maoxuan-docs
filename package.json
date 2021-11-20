@@ -1,0 +1,13 @@
+{
+  "name": "maoxuan-docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^11.0.0",
+    "requests": "^0.3.0"
+  }
+}
